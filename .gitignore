@@ -1,0 +1,5 @@
+priveBestand.pb 
+tijdelijkBestand.meta
+# map ignore
+priveInformatie/
+*.psd 
